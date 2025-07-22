@@ -3,7 +3,6 @@
   <img src="https://raw.githubusercontent.com/kasmirco/Adventura_Viajero_TravelAgency/main/files/AV.PNG" width="150" alt="Adventura Viajeros Logo" />
 </p>
 
-
 <h1 align="center">🌍 Adventura Viajeros</h1>
 
 <p align="center">
@@ -22,7 +21,7 @@
 
 **Adventura Viajeros** — from the Latin words for “Adventure Travelers” — is a beautifully crafted static travel agency website. It allows users to **quickly book trips**, **explore destinations**, **view guided packages**, and **plan personalized itineraries** for their next adventure.
 
-Whether you’re a thrill-seeker, a laid-back vacationer, or a travel planner, Adventura Viajeros offers you a simple yet inspiring interface to plan your journey from start to finish.
+Whether you’re a thrill-seeker, a laid-back vacationer, or a travel planner, **Adventura Viajeros** offers you a simple yet inspiring interface to plan your journey from start to finish.
 
 ---
 
@@ -31,10 +30,14 @@ Whether you’re a thrill-seeker, a laid-back vacationer, or a travel planner, A
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
 - **HTML5** – Markup for structure and content  
-- **CSS3** – Styling, responsiveness, layout customization
+- **CSS3** – Styling, responsiveness, layout customization  
+- **JavaScript** – Interactivity and dynamic UI features  
+- **PHP** – Backend form handling and future integration readiness  
 
 ---
 
@@ -42,18 +45,18 @@ Whether you’re a thrill-seeker, a laid-back vacationer, or a travel planner, A
 
 🔗 [**View Live Website**](https://kasmirco.github.io/Adventura_Viajero_TravelAgency/)
 
-Hosted using GitHub Pages.
+Hosted using **GitHub Pages** for fast and public deployment.
 
 ---
 
 ## 🧳 Key Features
 
-- 🧭 Travel booking made easy
-- 📌 Detailed itineraries and travel plans
-- 🗺️ Guided adventures for multiple destinations
-- 💬 Informative destination pages
-- 📷 Visually engaging layout with images and sections
-- 📱 Fully responsive design for mobile and desktop
+- 🧭 Easy trip booking system  
+- 📌 Organized travel itineraries  
+- 🗺️ Destination highlights & guided tours  
+- 🧾 Informational sections on packages  
+- 📷 Visually engaging layout with travel images  
+- 📱 Mobile-friendly and fully responsive  
 
 ---
 
