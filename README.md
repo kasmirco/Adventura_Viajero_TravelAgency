@@ -62,19 +62,26 @@ Hosted using **GitHub Pages** for fast and public deployment.
 
 ## 📁 Folder Structure
 
+```
 Adventura_Viajero_TravelAgency/
 │
-├── files/ # Logo and document assets
-├── images/ # Destination and gallery images
-├── index.html # Homepage
-├── destinations.html # Destination overview
-├── packages.html # Travel packages and deals
-├── about.html # About the agency
-├── contact.html # Contact form and details
-├── booking.php # Form submission backend (PHP)
-└── styles.css # Main CSS styling
+├── files/                # Logo and document assets
+│   └── AV.PNG            # Logo image
+│
+├── images/               # Destination and gallery images
+│   ├── destination1.jpg   # Example destination image
+│   ├── destination2.jpg   # Example destination image
+│   └── gallery/           # Additional gallery images
+│
+├── index.html            # Homepage
+├── destinations.html      # Destination overview
+├── packages.html         # Travel packages and deals
+├── about.html            # About the agency
+├── contact.html          # Contact form and details
+├── booking.php           # Form submission backend (PHP)
+└── styles.css            # Main CSS styling
 
----
+```
 
 ## 📦 How to Run Locally
 
