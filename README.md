@@ -64,13 +64,15 @@ Hosted using **GitHub Pages** for fast and public deployment.
 
 Adventura_Viajero_TravelAgency/
 │
-├── images/ # All image assets (logo, destination photos, etc.)
+├── files/ # Logo and document assets
+├── images/ # Destination and gallery images
 ├── index.html # Homepage
-├── destinations.html # List of travel locations
-├── packages.html # Travel packages and rates
+├── destinations.html # Destination overview
+├── packages.html # Travel packages and deals
 ├── about.html # About the agency
-├── contact.html # Contact and inquiry page
-└── styles.css # Main stylesheet
+├── contact.html # Contact form and details
+├── booking.php # Form submission backend (PHP)
+└── styles.css # Main CSS styling
 
 ---
 
