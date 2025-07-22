@@ -89,17 +89,30 @@ git clone https://github.com/kasmirco/Adventura_Viajero_TravelAgency.git
 # Open the homepage in your browser
 cd Adventura_Viajero_TravelAgency
 start index.html
-🧠 Inspiration
+```
+
+---
+
+## 🧠 Inspiration
+
 The project is inspired by real-world travel sites that emphasize clear visuals, ease of booking, and destination storytelling. Adventura Viajeros aims to combine simplicity with a vibrant travel experience, making users feel ready to pack and go.
 
-📧 Contact
+---
+
+## 📧 Contact
+
 For inquiries, ideas, or feedback:
 
-📩 Email: johnkennethcostinar@gmail.com
-🐙 GitHub: @kasmirco
+📩 Email: [johnkennethcostinar@gmail.com](mailto:johnkennethcostinar@gmail.com)  
+🐙 GitHub: [@kasmirco](https://github.com/kasmirco)
 
-📝 License
-This project is open-source under the MIT License.
+---
+
+## 📝 License
+
+This project is open-source under the MIT License.  
 You’re free to use, modify, and distribute with proper credit.
+
+---
 
 Designed & Built by @kasmirco — Dream, Explore, Discover ✈️🧭
