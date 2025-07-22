@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kasmirco/Adventura_Viajero_TravelAgency/main/images/logo.png" width="150" alt="Adventura Viajeros Logo" />
+  <img src="https://raw.githubusercontent.com/kasmirco/Adventura_Viajero_TravelAgency/main/files/AV.PNG" width="150" alt="Adventura Viajeros Logo" />
 </p>
+
 
 <h1 align="center">🌍 Adventura Viajeros</h1>
 
